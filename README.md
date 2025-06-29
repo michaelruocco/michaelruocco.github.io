@@ -5,11 +5,9 @@ Personal blog to get some thoughts down "on paper" in a format that is easy to r
 ## To Do
 
 * Add More posts!
-* Think of a better title
-* Update and improve CV layout
-* Add some background images:
-  * Home page
-  * About page
+* Enable posting comments
+* Update and improve CV layout using: https://jekyllthemes.io/theme/online-cv
+* Add some background image to about page
 
 ## Running Locally
 
