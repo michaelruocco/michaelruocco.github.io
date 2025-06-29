@@ -7,8 +7,8 @@ permalink: /about/
 * Dad
 * Husband
 * Uncle
-* Fitness enthusiast
 * Footballer
+* Fitness enthusiast
 * Leeds Supporter
-* Software Engineer
 * Occasional Runner
+* Software Engineer
