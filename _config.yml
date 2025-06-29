@@ -1,7 +1,7 @@
 title: Blog
 email: michael.ruocco@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  An attempt at blogging some of my thoughts, mostly code related
+  Some of my thoughts, mostly code related
 baseurl: "/"
 url: "https://michaelruocco.github.io"
 
