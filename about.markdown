@@ -8,7 +8,7 @@ background: '/img/bg-about.jpg'
 * Dad
 * Husband
 * Uncle
-* Footballer
+* Keen Footballer
 * Fitness enthusiast
 * Leeds Supporter
 * Occasional Runner
