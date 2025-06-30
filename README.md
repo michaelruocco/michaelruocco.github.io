@@ -6,7 +6,6 @@ Personal blog to get some thoughts down "on paper" in a format that is easy to r
 
 * Add More posts!
 * Update and improve CV layout using: https://jekyllthemes.io/theme/online-cv
-* Add some background image to about page
 
 ## Running Locally
 

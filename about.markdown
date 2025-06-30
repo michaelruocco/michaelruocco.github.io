@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+background: '/img/bg-about.jpg'
 ---
 
 * Dad
