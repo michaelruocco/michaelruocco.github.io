@@ -6,9 +6,9 @@ background: '/img/posts/creating-a-blog-bg.jpg'
 ---
 I have been toying with the idea of creating a blog for a while, without actually getting around to doing it.
 
-This morning I woke up around 5am, I had a bit of time before my son woke up, and figured I would give it a go.
-After a quick google, I found it is pretty easy to set something up using github pages, but what it gave me out
-of the box looked a bit bland. I returned to again to look for some themes, and liked the look of
+This morning I woke up around 5am so had a bit of time before my son woke up, and figured I would give it a go.
+After a quick Google, I found it is pretty easy to set something up using github pages, but what it gave me out
+of the box looked a bit bland. I returned to google to look for some themes, and liked the look of
 [clean blog theme](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll).
 
 I had not used [Jekyll](https://jekyllrb.com/docs/installation/macos/) before, and didn't have 
@@ -16,8 +16,8 @@ I had not used [Jekyll](https://jekyllrb.com/docs/installation/macos/) before, a
 After setting up Ruby and Jekyll, I was able to get the theme up and running.
 
 I also stumbled across a neat tool called [utterances](https://github.com/utterance)
-to enable comments on my posts, it is a lightweight widget that utilities GitHub issues,
-required very little effort to set up, and looks pretty good so far.
+to enable comments on my posts, it is a lightweight widget that build on top of GitHub issues.
+It required very little effort to set up, and looks pretty good so far.
 
 This as an introductory and test post. I hope that Ill be able to find time to write some more
 (hopefully more interesting!) posts in the future.
