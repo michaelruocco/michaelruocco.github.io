@@ -16,8 +16,12 @@ I had not used [Jekyll](https://jekyllrb.com/docs/installation/macos/) before, a
 [clean blog theme](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll) up and running.
 
 I drafted this as an introductory / test blog post. I hope that Ill be able to find time to write some more
-interesting blog posts in the future. I have recently read
+interesting blog posts in the future. I also stumbled across an awesome tool called [utterances](https://github.com/utterance)
+to enable comments on my blog posts, it is a lightweight widget that utilities GitHub issues, required very little
+effort to set up, and looks pretty good so far.
+
+I am currently reading
 [Elegant Objects Volume 1 by Yegor Bugayenko](https://www.amazon.co.uk/Elegant-Objects-1-Yegor-Bugayenko/dp/1519166915)
-and part of the reason for creating this blog is enable writing a blog post that can be used to support a
+and part of the reason for creating this blog is to enable writing a blog post that can be used to support a
 discussion around some of the topics at work, whether I will actually get around to doing it remains to be seen,
 watch this space!
